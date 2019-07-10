@@ -1,8 +1,8 @@
 .intro {
     font-style: italic;
   }
-  headers{
+  h1, h2{
     color:#f7325e; 
-    color:#7dc410;
     font-family:fantasy;
+    text-align:center;
   } 
