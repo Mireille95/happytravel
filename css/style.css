@@ -6,3 +6,16 @@
     font-family:fantasy;
     text-align:center;
   } 
+h1, h2 {
+  text-align:center;
+  color:red;
+}
+img{
+  text-align:center;
+  width: 600px;
+  height:400px
+}
+p{
+  text-align:center;
+  color:black;
+}
